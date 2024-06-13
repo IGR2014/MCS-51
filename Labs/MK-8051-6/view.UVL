@@ -1,0 +1,28 @@
+[Signal 1]
+DispName=P1
+PlotType=0
+Color=255
+ValHex=1
+MinDec=0
+MinVal=0.
+MaxDec=0
+MaxVal=1.
+Mask=1
+Offset=0
+Adaptive=0
+DispNumber=1
+HeightFactor=0.5
+[Signal 2]
+DispName=TF0
+PlotType=0
+Color=32768
+ValHex=0
+MinDec=0
+MinVal=0.
+MaxDec=0
+MaxVal=1.
+Mask=1
+Offset=0
+Adaptive=0
+DispNumber=2
+HeightFactor=0.5
